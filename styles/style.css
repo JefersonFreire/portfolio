@@ -130,6 +130,7 @@ body {
     width: 488px;
     height: 550px;
     pointer-events: none;
+    overflow: hidden;
 }
 
 .moldura {
@@ -142,7 +143,8 @@ body {
 }
 
 .foto {
-    position: relative;
+    position: absolute;
+    border-radius: 16px;
     width: 405.71px;
     height: 500px;
     top: 10px;
@@ -150,7 +152,7 @@ body {
     z-index: 2;
 }
 
-@media (max-width:1200px) {
+@media (max-width:1080px) {
     .cabecalho {
         padding: 10%;
     }
