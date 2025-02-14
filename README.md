@@ -12,7 +12,7 @@ O site tem como objetivo presentar meu trabalho como desenvolvedor, mostrando in
 
 ## Acesse o Portfólio
 Site hospedado e acessível online! 
-[clique aqui](https://my-portfolio-nine-phi-96.vercel.app/curriculo.html) 
+[clique aqui](https://portfolio-nu-jade-46.vercel.app/index.html) 
 
 ## Funcionalidades
 - Navegação entre as páginas "Home", "Sobre mim" e "Currículo"
