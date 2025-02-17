@@ -111,14 +111,8 @@ body {
     font-style: italic;
 }
 
-.rodape {
-    padding: 24px;
-    color: var(--cor-primaria);
-    background-color: var(--cor-terciaria);
-    text-align: center;
-    font-family: var(--fonte-secundaria);
-    font-size: 1.5rem;
-    font-weight: 400;
+.git__image {
+    height: 50px;
 }
 
 .apresentacao__imagem {
@@ -141,6 +135,16 @@ body {
     height: 500px;
     top: 10px;
     left: 60px;
+}
+
+.rodape {
+    padding: 24px;
+    color: var(--cor-primaria);
+    background-color: var(--cor-terciaria);
+    text-align: center;
+    font-family: var(--fonte-secundaria);
+    font-size: 1.5rem;
+    font-weight: 400;
 }
 
 @media (max-width:768px) {

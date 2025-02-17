@@ -11,7 +11,7 @@ O site tem como objetivo presentar meu trabalho como desenvolvedor, mostrando in
 - **CSS3**  
 
 ## Acesse o Portfólio
-Site hospedado e acessível online! 
+Site hospedado e acessível online!
 [clique aqui](https://portfolio-nu-jade-46.vercel.app/index.html) 
 
 ## Funcionalidades
